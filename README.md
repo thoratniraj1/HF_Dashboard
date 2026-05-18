@@ -1,2 +1,2 @@
 # HF_Dashboard
-Tracks your health and finance
+Tracks your health and finance.
