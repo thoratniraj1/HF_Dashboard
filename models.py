@@ -37,6 +37,11 @@ class User(Base):
         default=True
     )
 
+    is_super_user = Column(
+        Boolean,
+        default=True
+    )
+
     created_at = Column(
         DateTime,
         default=datetime.utcnow

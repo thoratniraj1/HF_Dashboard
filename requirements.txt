@@ -4,3 +4,4 @@ numpy
 typing
 opencv-python
 pymysql
+alembic
